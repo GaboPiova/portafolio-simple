@@ -1,0 +1,4 @@
+body { font-family: sans-serif; text-align: center; }
+section { display: flex; justify-content: center; gap: 20px; padding: 20px; }
+.card { border: 1px solid #ccc; padding: 20px; border-radius: 8px; width: 100px; }
+header, footer { background: #f4f4f4; padding: 10px; }
